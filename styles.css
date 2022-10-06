@@ -191,3 +191,9 @@ hr {
     font-size: 4.5rem;
   }
 }
+/* styling the attribution */
+footer {
+  padding: 1em;
+  text-align: center;
+  font-style: italic;
+}
